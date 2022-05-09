@@ -1,4 +1,3 @@
-The following project uses information collectedm from the World Bank about amount of debt in USD owed by different countries. 
 # 1: Find the number of distinct countries 
 SELECT COUNT (DISTINCT country_name) AS total_distinct_countries 
 FROM international_debt;
