@@ -13,7 +13,7 @@ The data used in this project is provided by The World Bank. It contains both na
 
 Project Tasks
 
-The World Bank's international debt data
+The World Bank's international debt data  
 Finding the number of distinct countries
 Finding out the distinct debt indicators
 Totaling the amount of debt owed by the countries
